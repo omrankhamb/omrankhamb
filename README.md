@@ -2,7 +2,7 @@
 
 I'm **Omprasad Rankhamb** - Computer Engineering Student | Full-Stack Developer | AI/ML Enthusiast | Problem Solver
 
-Passionate about building practical solutions, solving challenging problems, and exploring new technologies. I enjoy turning ideas into real-world applications and continuously improving my development and problem-solving skills.
+Passionate about building practical solutions, solving challenging problems, and exploring new technologies. I enjoy turning ideas into real-world applications and continuously improving my development skills.
 
 ---
 
@@ -17,6 +17,7 @@ Passionate about building practical solutions, solving challenging problems, and
 - ☁️ Exploring Cloud & AWS technologies
 - 🔥 Interested in Open Source, Hackathons & Developer Communities
 - 🤝 Open to collaborating on interesting projects
+- 📡 Knowledgeable in socket programming (network/socket programming)
 
 ---
 
@@ -39,15 +40,17 @@ Passionate about building practical solutions, solving challenging problems, and
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-**AI / ML**
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-0078D4?style=flat-square)
+**Mobile / Cross-platform**
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
 **Tools & Platforms**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
 
 ---
 
@@ -81,6 +84,7 @@ A face-recognition-based attendance system designed to automate attendance track
 - 🔹 Full-Stack Development
 - 🔹 Cloud & AWS
 - 🔹 Open Source Projects
+- 🔹 Mobile & Cross-platform Development with Flutter & Dart
 
 ---
 
