@@ -71,9 +71,6 @@
 > ### 🌱 BioScan — Plant Disease Detection
 > AI-powered web application for detecting plant diseases from leaf images, with disease recommendations, confidence analysis, and an interactive Maharashtra-based dashboard.
 
-> ### 🤖 AI Mitra
-> An AI-focused project developed as part of a tech-fest team, involving team coordination, collaboration, and practical problem solving.
-
 > ### 👨‍💻 Smart Attendance System
 > A face-recognition-based attendance system designed to automate attendance tracking.
 
