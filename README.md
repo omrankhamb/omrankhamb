@@ -13,7 +13,7 @@
 
 - 🎓 **Computer Engineering student**
 - 💻 Passionate about **Software Development** & **Problem Solving**
-- 🧩 Solved **450+ problems** on LeetCode
+- 🧩 Solved **500+ problems** on LeetCode
 - 🏗️ Learning and practicing **System Design**
 - 🤖 Interested in **AI/ML** and intelligent applications
 - 🌐 Building projects with **React, JavaScript & Spring Boot**
