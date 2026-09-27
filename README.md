@@ -91,18 +91,15 @@ fun_fact: "Turning coffee ☕ into code 💻"
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omrankhamb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omrankhamb&theme=tokyonight&hide_border=true" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=omrankhamb&show_icons=true&theme=radical&hide_border=true&count_private=true&rank_icon=github" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omrankhamb&layout=compact&theme=radical&hide_border=true" width="48%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omrankhamb&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omrankhamb&theme=tokyo-night&hide_border=true" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omrankhamb&theme=radical&hide_border=true" width="70%"/>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=omrankhamb&theme=tokyonight&no-frame=true&row=1&column=7" width="90%"/>
-</div>
+> 💡 Stats cards are generated live by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) — they can take a moment to load, and occasionally time out if the service is under heavy load. Refreshing the page usually fixes it.
 
 ---
 
@@ -115,17 +112,17 @@ fun_fact: "Turning coffee ☕ into code 💻"
 
 ---
 
-### 🚀 Featured Projects
+### 📌 Featured Projects
 
-#### 🌱 BioScan — Plant Disease Detection
-AI-powered web app that detects plant diseases from leaf images, with disease recommendations, confidence analysis, and an interactive Maharashtra-based dashboard.
+> ### 🌱 BioScan — Plant Disease Detection
+> AI-powered web application for detecting plant diseases from leaf images, with disease recommendations, confidence analysis, and an interactive Maharashtra-based dashboard.
+>
+> **Tech Stack:** `Python` `AI/ML` `Flask/React`
 
-**Tech Stack:** `Python` `AI/ML` `Flask/React`
-
-#### 👨‍💻 Smart Attendance System
-A face-recognition-based attendance system built to automate and streamline attendance tracking.
-
-**Tech Stack:** `Python` `OpenCV` `Computer Vision`
+> ### 👨‍💻 Smart Attendance System
+> A face-recognition-based attendance system designed to automate attendance tracking.
+>
+> **Tech Stack:** `Python` `OpenCV` `Computer Vision`
 
 ---
 
@@ -140,16 +137,6 @@ A face-recognition-based attendance system built to automate and streamline atte
 | ☁️ Infrastructure | Cloud & AWS |
 | 🌍 Community | Open Source Projects |
 | 📱 Mobile | Cross-platform Development with Flutter & Dart |
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/omrankhamb/omrankhamb/output/github-contribution-grid-snake.svg" width="90%"/>
-</div>
-
-> ℹ️ To activate this, add the [platane/snk](https://github.com/Platane/snk) GitHub Action to your `omrankhamb/omrankhamb` profile repo — it auto-generates this SVG from your contribution graph.
 
 ---
 
