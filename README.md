@@ -40,7 +40,6 @@ fun_fact: "Turning coffee ☕ into code 💻"
 
 - 🎓 Computer Engineering student
 - 💻 Passionate about **Software Development** & **Problem Solving**
-- 🧩 Solved **500+ problems** on LeetCode
 - 🏗️ Learning and practicing **System Design**
 - 🤖 Interested in **AI/ML** and intelligent applications
 - 🌐 Building projects with **React, JavaScript & Spring Boot**
