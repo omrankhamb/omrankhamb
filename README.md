@@ -34,14 +34,13 @@ name: Omprasad Rankhamb
 role: Computer Engineering Student
 focus: [Full-Stack Development, DSA, System Design, AI/ML]
 current_stats:
-  leetcode_problems_solved: 450+
   learning: [System Design, Cloud & AWS, Open Source]
 fun_fact: "Turning coffee ☕ into code 💻"
 ```
 
 - 🎓 Computer Engineering student
 - 💻 Passionate about **Software Development** & **Problem Solving**
-- 🧩 Solved **450+ problems** on LeetCode
+- 🧩 Solved **500+ problems** on LeetCode
 - 🏗️ Learning and practicing **System Design**
 - 🤖 Interested in **AI/ML** and intelligent applications
 - 🌐 Building projects with **React, JavaScript & Spring Boot**
