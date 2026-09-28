@@ -103,7 +103,7 @@ fun_fact: "Turning coffee ☕ into code 💻"
 
 ### 🧠 Problem Solving
 
-- 🏆 **450+ LeetCode problems solved**
+
 - 📚 Strong focus on **Data Structures & Algorithms**
 - 🏗️ Learning **System Design & Software Architecture**
 - ⚡ Writing efficient, scalable, and maintainable solutions
